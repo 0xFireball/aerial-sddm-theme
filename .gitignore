@@ -2,3 +2,4 @@ Main.qmlc
 
 /playlist_videos/*
 !/playlist_videos/*.md
+/Features/*
