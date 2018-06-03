@@ -32,6 +32,11 @@ If you wish to play local videos files just use the following command to generat
 
 `find <path-to-your-directory> -maxdepth 1 -type f > <playlist-file>`
 
+### Fork Patches
+
+- Use `./download_videos.py` to fetch all remote videos
+- Run `./use_local_videos.sh` to use the downloaded videos
+
 ### Changing settings in `theme.conf.user`
 
 You can change a few settings in this file
